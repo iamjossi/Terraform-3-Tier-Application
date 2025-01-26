@@ -1,4 +1,4 @@
-# Terraform-3-Tier-Application
+# Terraform-3-Tier-Architecture
 
 ## Introduction
 
